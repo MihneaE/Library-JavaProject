@@ -1,1 +1,2 @@
 # Library-JavaProject
+This is a java project that simulates a library. It has add, delete, modify, search, filter and sort functions. 500 books and 500 people are randomly generated in 2 files. A person can borrow or return a book. In the Threads folder, the application simulates the behavior of a library, where several readers can simultaneously borrow and return books, until all books are borrowed or all books are returned.
